@@ -4,7 +4,6 @@ id,name,borough,"distance to center, m",rating,phone,twitter,instagram,facebook,
 55708236498e5d3055e6cfff,Patrick Broome Yoga,Altstadt-Lehel,2384,NA,NA,NA,NA,NA,NA,1,1,1,0,18.00,108.00,0
 4ccc31d0ba0a548159753b59,Werkstatt 7,Ludwigsvorstadt-Isarvorstadt,2351,NA,+498951717640,NA,NA,NA,NA,1,1,1,0,16.00,105.00,0
 55eef8ba498e3c52398ad862,MahaShakti Yoga Studio,Maxvorstadt,2552,NA,+49892725608,NA,NA,NA,NA,1,1,1,1,19.00,120.00,0
-4c504efa1886c9b6cbaa7c28,Miss Fitness,Au-Haidhausen,3320,NA,+4989229282,NA,NA,NA,NA,0,1,1,NA,NA,NA,0
 4b54783ef964a5207dbc27e3,Jivamukti Yoga,Altstadt-Lehel,2995,8.6,+498945226522,NA,NA,NA,NA,1,1,1,0,15.00,115.00,0
 5ca9e9ea46e1b6003907860a,Raum für Yoga,Neuhausen-Nymphenburg,1314,NA,NA,NA,NA,NA,NA,0,1,0,0,12.00,130.00,0
 4b46299ff964a520a51826e3,Jivamukti Yoga,Au-Haidhausen,4412,NA,NA,NA,NA,NA,NA,1,1,1,0,15.00,85.00,0
@@ -24,39 +23,22 @@ id,name,borough,"distance to center, m",rating,phone,twitter,instagram,facebook,
 5d8b58b8e26fad0009255994,Munich Collective,Schwabing-West,3444,NA,NA,NA,NA,NA,NA,0,1,1,0,16.00,NA,0
 5130d0b1e4b02118280aa59b,Thenyoni Yogaloft,Schwabing-West,9029,NA,+491754648335,NA,NA,NA,NA,0,1,0,0,14.00,NA,0
 4c3cd1077d002d7f2af6ae18,Prana Iyengar Yoga Institut,Altstadt-Lehel,2983,NA,NA,NA,NA,NA,NA,0,1,0,0,20.00,90.00,0
-51af4d48498e86292d5d5262,Bikram Yoga Station,Obergiesing,5294,NA,+498989069727,dieyogastation,dieyogastation,Die Yoga Station,NA
-584571be0b565625e88dabaa,Yoga in Solln,Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln,7944,NA,+498951668766,NA,NA,NA,"[{'days': 'Mon–Thu', 'open': [{'renderedTime': '5:30 PM–9:30 PM'}], 'segments': []}]"
-52f9145d498ec43f21ad8712,MamaYoga,Schwabing-West,3051,NA,NA,NA,NA,NA,NA
-5009250ae4b034274e5801e6,Balance - Wellness for Women,Schwanthalerhöhe,756,NA,+498912391342,NA,NA,NA,NA
-56e3283fcd1044008999b885,Happy Belly Yoga,Schwanthalerhöhe,886,NA,+4917622789136,a_kampermann,NA,Happy Belly Yoga,"[{'days': 'Mon–Sun', 'includesToday': True, 'open': [{'renderedTime': '9:00 AM–10:00 PM'}], 'segments': []}]"
-4e0afe45d22dbfe2dd783748,Patrick Broome Yoga Studio Schwabing,Maxvorstadt,2262,NA,NA,NA,NA,NA,NA
-533904dd498e6c3d747dd096,Physio Katrin,Laim,3994,NA,NA,NA,NA,NA,NA
-4eabbd74775bf0856a1b2934,Sonnengruss Yoga,Altstadt-Lehel,1291,NA,NA,NA,NA,NA,NA
-4cd52d5ba5b346883e4d8c50,Woyo Club,Schwanthalerhöhe,701,7.4,+498914330123,NA,NA,NA,"[{'days': 'Mon–Fri', 'open': [{'renderedTime': '9:00 AM–10:00 PM'}], 'segments': []}, {'days': 'Sat–Sun', 'includesToday': True, 'open': [{'renderedTime': '9:00 AM–6:00 PM'}], 'segments': []}]"
-52ab345111d2122b5b16fdd3,Yoga Atelier Blütenstraße,Maxvorstadt,2417,NA,NA,NA,NA,NA,NA
-4e820f99f790751739d12224,Incentivo | Yoga,Maxvorstadt,2427,NA,+491717882164,NA,NA,NA,NA
-512110c3e4b027f37e968560,Henma,Schwanthalerhöhe,434,NA,NA,NA,NA,NA,NA
-4edd14806da1642c5fe40371,Yam Yoga,Schwabing-West,3396,NA,NA,NA,NA,NA,NA
-4f09dda9e4b0596c901fceb7,Yogamatte,Berg am Laim,6843,NA,NA,NA,NA,NA,NA
-5d558645159b160008b7613b,Yoga Garden,Altstadt-Lehel,2740,NA,NA,NA,NA,NA,NA
-54eee14a498e2cd9fcfa53e1,groupfit - Fitnessstudio München Trudering - ohne Vertrag,Trudering-Riem,8695,NA,+498945450666,groupfit_de,NA,groupfit.de,"[{'days': 'Mon–Thu', 'open': [{'renderedTime': '9:00 AM–9:00 PM'}], 'segments': []}, {'days': 'Fri', 'open': [{'renderedTime': '9:00 AM–6:30 PM'}], 'segments': []}, {'days': 'Sat', 'open': [{'renderedTime': '10:00 AM–1:00 PM'}], 'segments': []}]"
-4d59764a9b302d4378142434,Vijnana Yoga München,Au-Haidhausen,4832,NA,+4981571733,NA,NA,NA,NA
-51002db6e4b09a8cd36ee218,iYoga,Ludwigsvorstadt-Isarvorstadt,2216,NA,NA,NA,NA,NA,NA
-4da89f7c4df0af29b7123ed3,Jaya Yoga,Ludwigsvorstadt-Isarvorstadt,2888,NA,NA,NA,NA,NA,NA
-5cd9a9f1d41bb7002cfea96f,Sahaja Yoga Zentrum,Au-Haidhausen,3723,NA,NA,NA,NA,NA,NA
-4e324d58ae60f21828d32c3e,Ashtanga Yoga München,Au-Haidhausen,4422,NA,NA,NA,NA,NA,NA
-4fba770ce4b0613b62bb0997,You Balance,Ludwigsvorstadt-Isarvorstadt,2491,NA,NA,NA,NA,NA,NA
-592302a8c4df1d57083dbc99,Yogagarden,Altstadt-Lehel,2738,NA,NA,NA,NA,NA,NA
-515c677fe4b01a744d7ec345,Triyoga,Altstadt-Lehel,2973,NA,NA,NA,NA,NA,NA
-4ecd477e7ee51c2d510fc84a,Yoga Atelier,Au-Haidhausen,4934,NA,NA,NA,NA,NA,NA
-54d22bf5498e7c67eb7656bb,Licht Raum,Au-Haidhausen,4734,NA,NA,NA,NA,NA,NA
-4c5c71267f661b8dd294481c,Jan&Juliane's Muschelbar,Obergiesing,5697,NA,NA,NA,NA,NA,NA
-4fbbbc06e4b065aa77cd3391,Yogatreff Waldperlach,Ramersdorf-Perlach,11255,NA,NA,NA,NA,NA,NA
-4fbbbcdce4b0c7f68a99d3a5,Ayurveda Yoga Ritter,Trudering-Riem,10924,NA,+498969371205,NA,NA,NA,NA
-4dc80b4c887717c880615cf0,Turnraum,Altstadt-Lehel,2810,NA,NA,NA,NA,NA,NA
-59123bfecad1b6721e74074f,CS Yoga & Pilates,Trudering-Riem,12222,NA,NA,NA,NA,NA,NA
-4baf7c4af964a520c8033ce3,Health Loft R&S,Berg am Laim,5413,NA,+4989412915055,NA,NA,NA,NA
-5d49410ebb608a000735ed9b,Ray Sono Chillout Room,Ludwigsvorstadt-Isarvorstadt,2361,NA,NA,NA,NA,NA,NA
-5af9a7b4ff03060038fde630,Götteryoga,Schwanthalerhöhe,984,NA,NA,NA,NA,NA,NA
-5816f90a38fab433ad2b400c,Atemheilkunst e.V.,Sendling-Westpark,4229,NA,NA,NA,NA,NA,NA
-4b9e7d8df964a5208fe836e3,Lifepark,Hadern,12884,NA,NA,NA,NA,NA,NA
+51af4d48498e86292d5d5262,Bikram Yoga Station,Obergiesing,5294,NA,+498989069727,dieyogastation,dieyogastation,Die Yoga Station,NA,1,1,1,0,22.00,129.00,0
+584571be0b565625e88dabaa,Yoga in Solln,Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln,7944,NA,+498951668766,NA,NA,NA,NA,0,1,0,0,12,100.00,0
+5009250ae4b034274e5801e6,Balance - Wellness for Women,Schwanthalerhöhe,756,NA,+498912391342,NA,NA,NA,NA,1,1,1,0,24.50,125.00,1
+56e3283fcd1044008999b885,Happy Belly Yoga,Schwanthalerhöhe,886,NA,+4917622789136,a_kampermann,NA,Happy Belly Yoga,NA,1,1,1,0,10.00,99.00,0
+4e0afe45d22dbfe2dd783748,Patrick Broome Yoga Studio Schwabing,Schwabing,2262,NA,NA,NA,NA,NA,NA,1,1,1,0,18.00,108.00,1
+4cd52d5ba5b346883e4d8c50,Woyo Club,Schwanthalerhöhe,701,7.4,+498914330123,NA,NA,NA,NA,1,1,1,0,20.00,85.00,0
+52ab345111d2122b5b16fdd3,Yoga Atelier Blütenstraße,Maxvorstadt,2417,NA,NA,NA,NA,NA,NA0,0,1,0,0,18.00,85.00,0
+4edd14806da1642c5fe40371,Yam Yoga,Schwabing-West,3396,NA,NA,NA,NA,NA,NA,0,1,1,0,18.00,108.00,0
+5d558645159b160008b7613b,Yoga Garden,Altstadt-Lehel,2740,NA,NA,NA,NA,NA,NA,0,1,0,0,10.00,130.00,0
+54eee14a498e2cd9fcfa53e1,Groupfit,Trudering-Riem,8695,NA,+498945450666,groupfit_de,NA,groupfit.de,NA,1,1,1,1,20.00,110.00,0
+4d59764a9b302d4378142434,Vijnana Yoga München,Au-Haidhausen,4832,NA,+4981571733,NA,NA,NA,NA,0,1,0,0,16.00,180.00,0
+51002db6e4b09a8cd36ee218,iYoga,Ludwigsvorstadt-Isarvorstadt,2216,NA,NA,NA,NA,NA,NA,1,1,1,0,22.00,175.00,0
+4da89f7c4df0af29b7123ed3,Jaya Yoga,Ludwigsvorstadt-Isarvorstadt,2888,NA,NA,NA,NA,NA,NA,0,1,1,0,15.00,100.00,0
+515c677fe4b01a744d7ec345,Triyoga,Altstadt-Lehel,2973,NA,NA,NA,NA,NA,NA,0,1,0,0,20.00,160.00,0
+4ecd477e7ee51c2d510fc84a,Yoga Atelier,Au-Haidhausen,4934,NA,NA,NA,NA,NA,NA,0,1,1,0,19.00,112.00,0
+4fbbbcdce4b0c7f68a99d3a5,Ayurveda Yoga Ritter,Trudering-Riem,10924,NA,+498969371205,NA,NA,NA,NA,1,1,1,0,17.00,140.00,0
+59123bfecad1b6721e74074f,CS Yoga & Pilates,Trudering-Riem,12222,NA,NA,NA,NA,NA,NA,1,1,0,18.00,100.00,0
+4baf7c4af964a520c8033ce3,Health Loft R&S,Berg am Laim,5413,NA,+4989412915055,NA,NA,NA,NA,0,1,0,0,24.00,120.00,0
+5af9a7b4ff03060038fde630,Götteryoga,Schwanthalerhöhe,984,NA,NA,NA,NA,NA,NA,0,1,1,15.00,90.00,0
